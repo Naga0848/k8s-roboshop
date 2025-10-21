@@ -11,3 +11,5 @@
 
 # For every service, we should create only deployment,  because replicaset and pod are the subset of deployments
 
+# Also, remeber that we are maintaining all the k8s resourches in a single yaml file i.e., we write, deployment, service, configmaap and secrets in a single yaml file
+
