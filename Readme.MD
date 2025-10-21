@@ -10,6 +10,8 @@
 
     Donot forget to mention the namespace in the yaml files, otherwise it they get created in the default namespaces
 
+    We are using the images which are already existing in the Docker Hub
+
 
 
 # Main parts in Orchestration
